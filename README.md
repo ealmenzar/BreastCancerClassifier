@@ -22,4 +22,4 @@ Model evaluation is determined by:
 
 Some features selection methods have been used in order to find the less relevant features.
 
-You can run the notebook and play with the code here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ealmenzar/BreastCancerClassifier/master?filepath=https%3A%2F%2Fgithub.com%2Fealmenzar%2FBreastCancerClassifier%2FBreastCancerClassifier.ipynb)
+You can run the notebook and play with the code here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ealmenzar/BreastCancerClassifier/master?urlpath=https%3A%2F%2Fgithub.com%2Fealmenzar%2FBreastCancerClassifier%2FBreastCancerClassifier.ipynb)
